@@ -45,6 +45,6 @@ To utilize these Chrome extensions, follow these simple steps:
 
 ## Feedback and Support
 
-If you have any questions, suggestions, or issues regarding the extensions or this repository, feel free to open an issue or reach out to me via email at alexissavard@protonmail.com or on Discord.
+If you have any questions, suggestions, or issues regarding the extensions or this repository, feel free to open an issue or reach out to me via email at AlexisSavard@protonmail.com or on Discord.
 
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.net-model.com%2Fimg%2Flogo-discord.png&f=1&nofb=1&ipt=0b347aa70a05f91f4015e7e1049581eba2f397f35b8f27ebb18ae2190210f8ea&ipo=images)ㅤContact Me: Discord --> LXC#3100
