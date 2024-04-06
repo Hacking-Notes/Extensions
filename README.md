@@ -6,10 +6,9 @@ Welcome to my Chrome Extension Collection GitHub repository! This repository is 
 
 In this collection, you'll find a diverse range of Chrome extensions covering various categories, including:
 
-- **Productivity**: Extensions designed to boost your efficiency and streamline your workflow.
-- **Security**: Tools aimed at enhancing your online security and privacy.
-- **Customization**: Extensions that allow you to customize and personalize your browsing experience.
-- **Utility**: Miscellaneous extensions offering additional functionality and features.
+- **Privacy & Security**
+- **Web Development & Analysis**
+- **Learning & Productivity**
 
 ## Installation Instructions
 
@@ -29,28 +28,23 @@ To utilize these Chrome extensions, follow these simple steps:
 
 ## Included Extensions
 
-### Productivity
+### Privacy & Security:
+   <li><a href="https://chromewebstore.google.com/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj">TempMail</a>: Provides temporary email addresses for privacy.</li>
+   <li><a href="https://chromewebstore.google.com/detail/kill-switch/gojllalahpiahalfhfjpbpfhjpaahjkc">Killswitch</a>: Blocks certain websites based on IP, enhancing security when using VPNs.</li>
+   <li><a href="https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm">Cookie Editor</a>: Useful for pentesting and managing cookies for enhanced privacy.</li>
 
-- **Extension Name 1**: Description of the extension and how it enhances productivity.
-- **Extension Name 2**: Another productivity extension and its benefits.
+### Web Development & Analysis:
+   <li><a href="https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a>: Identifies web technologies used on websites.</li>
+   <li><a href="https://chromewebstore.google.com/detail/simple-proxy-switcher/pcboajngloecgmaailkmphmpbacmbcfb">Simple Proxy Switcher</a>: Easy-to-use proxy switcher for web development and testing.</li>
+   <li><a href="https://chromewebstore.google.com/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp">Classic Cache Killer</a>: Helps in clearing cache for web development purposes.</li>
+   <li><a href="https://chromewebstore.google.com/detail/webspy-explore-and-test-w/aedipmheomnpcbgmanofhaccebgapije">Webspy</a>: Analyzes network requests better than the network tab in inspection mode.</li>
+   <li><a href="https://chromewebstore.google.com/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol">D3coder</a>: Useful decoder tool for web development tasks.</li>
 
-### Security
-
-- **Extension Name 3**: Description of the security-focused extension and its role in protecting your online privacy.
-- **Extension Name 4**: Another security extension and its features for secure browsing.
-
-### Customization
-
-- **Extension Name 5**: Customize your browsing experience with this extension, providing themes or UI enhancements.
-- **Extension Name 6**: Another customization extension, allowing you to tailor Chrome to your preferences.
-
-### Utility
-
-- **Extension Name 7**: Miscellaneous utility extension with additional features not covered in other categories.
-- **Extension Name 8**: Another utility extension, offering unique functionality to improve your browsing experience.
+### Learning & Productivity:
+   <li><a href="https://chromewebstore.google.com/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff">Global Speed</a>: Accelerates learning in cybersecurity courses by adjusting playback speed.</li>
 
 ## Feedback and Support
 
-If you have any questions, suggestions, or issues regarding the extensions or this repository, feel free to open an issue or reach out to me via email at your@email.com or on Discord.
+If you have any questions, suggestions, or issues regarding the extensions or this repository, feel free to open an issue or reach out to me via email at alexissavard@protonmail.com or on Discord.
 
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.net-model.com%2Fimg%2Flogo-discord.png&f=1&nofb=1&ipt=0b347aa70a05f91f4015e7e1049581eba2f397f35b8f27ebb18ae2190210f8ea&ipo=images)ㅤContact Me: Discord --> LXC#3100
