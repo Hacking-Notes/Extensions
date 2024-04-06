@@ -10,22 +10,6 @@ In this collection, you'll find a diverse range of Chrome extensions covering va
 - **Web Development & Analysis**
 - **Learning & Productivity**
 
-## Installation Instructions
-
-To utilize these Chrome extensions, follow these simple steps:
-
-1. **Clone the Repository**: Clone this repository to your local machine using the following command:
-   ```
-   git clone https://github.com/YourUsername/Chrome-Extension-Collection.git
-   ```
-
-2. **Load Extensions in Developer Mode**:
-   - Open Chrome and navigate to `chrome://extensions/`.
-   - Enable Developer Mode by toggling the switch at the top-right corner.
-   - Click on "Load unpacked" and select the directory where you cloned the repository.
-
-3. **Enjoy Your Extensions**: Once loaded, you can start using the extensions immediately.
-
 ## Included Extensions
 
 ### Privacy & Security:
