@@ -1,4 +1,7 @@
-# Chrome Extension Collection
+
+![create-a-chrome-extension-icon-with-a-hacking-evil-icon-inside-895548428](https://github.com/Hacking-Notes/Extensions/assets/118412415/d55b2201-47e2-4345-95c5-aecf997976f1)
+
+# Chrome Extensions Collection
 
 Welcome to my Chrome Extension Collection GitHub repository! This repository is a curated list of Chrome extensions that I personally use and find useful for enhancing productivity, security, and overall browsing experience. Whether you're a casual user or a power user, you'll find a variety of extensions here to cater to your needs.
 
