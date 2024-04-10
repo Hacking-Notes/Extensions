@@ -16,6 +16,7 @@ In this collection, you'll find a diverse range of Chrome extensions covering va
 ## Included Extensions
 
 ### Privacy & Security:
+   <li><a href="https://chromewebstore.google.com/detail/jhhafkobmfjlcfppjenldjalejnfhcfk">Secure Kit</a>: Make your browser anonymous (Reduce Footprints)</li>
    <li><a href="https://chromewebstore.google.com/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj">TempMail</a>: Provides temporary email addresses for privacy.</li>
    <li><a href="https://chromewebstore.google.com/detail/kill-switch/gojllalahpiahalfhfjpbpfhjpaahjkc">Killswitch</a>: Blocks certain websites based on IP, enhancing security when using VPNs.</li>
    <li><a href="https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm">Cookie Editor</a>: Useful for pentesting and managing cookies for enhanced privacy.</li>
