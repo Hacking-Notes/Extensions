@@ -25,7 +25,7 @@ In this collection, you'll find a diverse range of Chrome extensions covering va
    <li><a href="https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a>: Identifies web technologies used on websites.</li>
    <li><a href="https://chromewebstore.google.com/detail/simple-proxy-switcher/pcboajngloecgmaailkmphmpbacmbcfb">Simple Proxy Switcher</a>: Easy-to-use proxy switcher for web development and testing.</li>
    <li><a href="https://chromewebstore.google.com/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp">Classic Cache Killer</a>: Helps in clearing cache for web development purposes.</li>
-   <li><a href="https://chromewebstore.google.com/detail/webspy-explore-and-test-w/aedipmheomnpcbgmanofhaccebgapije">Webspy</a>: Analyzes network requests better than the network tab in inspection mode.</li>
+   <li><a href="https://chromewebstore.google.com/detail/link-gopher/bpjdkodgnbfalgghnbeggfbfjpcfamkf?hl=en">Link Gopher</a>: Extracts all links from web page, sorts them, removes duplicates, and displays them.</li>
    <li><a href="https://chromewebstore.google.com/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol">D3coder</a>: Useful decoder tool for web development tasks.</li>
 
 ### Learning & Productivity:
