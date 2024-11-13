@@ -23,6 +23,10 @@ In this collection, you'll find a diverse range of Chrome extensions covering va
 
 ### Web Development & Analysis:
    <li><a href="https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a>: Identifies web technologies used on websites.</li>
+   <li><a href="https://github.com/AtlasWiki/EndPointer">EndPointer</a>: Identifies vulnerable endpoints on webpages and linked JavaScript files.</li>
+   <li>WaybackURL: Discover Wayback Machine links with valuable information.</li>
+   <li><a href="https://chromewebstore.google.com/detail/domlogger++/lkpfjhmpbmpflldmdpdoabimdbaclolp">DOMLogger++</a>: Identifies web technologies used on websites.</li>
+   <li><a href="https://chromewebstore.google.com/detail/jsbeautifycssbeautifyhtml/hjakbhfifpopkbpkajkpmggocfmkgapd">JS Beautify</a>: This extension is designed to beautify JS, CSS, and HTML.</li>
    <li><a href="https://chromewebstore.google.com/detail/simple-proxy-switcher/pcboajngloecgmaailkmphmpbacmbcfb">Simple Proxy Switcher</a>: Easy-to-use proxy switcher for web development and testing.</li>
    <li><a href="https://chromewebstore.google.com/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp">Classic Cache Killer</a>: Helps in clearing cache for web development purposes.</li>
    <li><a href="https://chromewebstore.google.com/detail/link-gopher/bpjdkodgnbfalgghnbeggfbfjpcfamkf?hl=en">Link Gopher</a>: Extracts all links from web page, sorts them, removes duplicates, and displays them.</li>
