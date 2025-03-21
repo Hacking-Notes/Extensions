@@ -13,27 +13,32 @@ In this collection, you'll find a diverse range of Chrome extensions covering va
 - **Web Development & Analysis**
 - **Learning & Productivity**
 
+I'll help you improve this list of extensions by organizing it better, adding missing links, and enhancing the descriptions. Here's the improved version:
+
 ## Included Extensions
 
 ### Privacy & Security:
-   <li><a href="https://chromewebstore.google.com/detail/jhhafkobmfjlcfppjenldjalejnfhcfk">Secure Kit</a>: Make your browser anonymous (Reduce Footprints)</li>
-   <li><a href="https://chromewebstore.google.com/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj">TempMail</a>: Provides temporary email addresses for privacy.</li>
-   <li><a href="https://chromewebstore.google.com/detail/kill-switch/gojllalahpiahalfhfjpbpfhjpaahjkc">Killswitch</a>: Blocks certain websites based on IP, enhancing security when using VPNs.</li>
-   <li><a href="https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm">Cookie Editor</a>: Useful for pentesting and managing cookies for enhanced privacy.</li>
+- [TempMail](https://chromewebstore.google.com/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj): Provides temporary email addresses to protect your privacy and reduce spam.
+- [Kill Switch](https://chromewebstore.google.com/detail/kill-switch/gojllalahpiahalfhfjpbpfhjpaahjkc): Blocks specific websites based on IP addresses, enhancing security when using VPNs.
+- [Cookie Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm): Powerful tool for viewing, editing, and managing browser cookies for privacy and pentesting.
 
 ### Web Development & Analysis:
-   <li><a href="https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a>: Identifies web technologies used on websites.</li>
-   <li><a href="https://github.com/AtlasWiki/EndPointer">EndPointer</a>: Identifies vulnerable endpoints on webpages and linked JavaScript files.</li>
-   <li>WaybackURL: Discover Wayback Machine links with valuable information.</li>
-   <li><a href="https://chromewebstore.google.com/detail/domlogger++/lkpfjhmpbmpflldmdpdoabimdbaclolp">DOMLogger++</a>: Identifies web technologies used on websites.</li>
-   <li><a href="https://chromewebstore.google.com/detail/jsbeautifycssbeautifyhtml/hjakbhfifpopkbpkajkpmggocfmkgapd">JS Beautify</a>: This extension is designed to beautify JS, CSS, and HTML.</li>
-   <li><a href="https://chromewebstore.google.com/detail/simple-proxy-switcher/pcboajngloecgmaailkmphmpbacmbcfb">Simple Proxy Switcher</a>: Easy-to-use proxy switcher for web development and testing.</li>
-   <li><a href="https://chromewebstore.google.com/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp">Classic Cache Killer</a>: Helps in clearing cache for web development purposes.</li>
-   <li><a href="https://chromewebstore.google.com/detail/link-gopher/bpjdkodgnbfalgghnbeggfbfjpcfamkf?hl=en">Link Gopher</a>: Extracts all links from web page, sorts them, removes duplicates, and displays them.</li>
-   <li><a href="https://chromewebstore.google.com/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol">D3coder</a>: Useful decoder tool for web development tasks.</li>
+- [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg): Identifies technologies and frameworks used on websites for reconnaissance.
+- [EndPointer](https://github.com/AtlasWiki/EndPointer): Discovers potentially vulnerable endpoints on webpages and in linked JavaScript files.
+- [DOMLogger++](https://chromewebstore.google.com/detail/domlogger++/lkpfjhmpbmpflldmdpdoabimdbaclolp): Tracks DOM modifications and logs interactions for deeper web analysis.
+- [Simple Proxy Switcher](https://chromewebstore.google.com/detail/simple-proxy-switcher/pcboajngloecgmaailkmphmpbacmbcfb): Easy-to-use proxy switcher for web development, testing, and bypassing restrictions.
+- [Syntaxic!](https://chromewebstore.google.com/detail/syntaxtic/cgjalgdhmbpaacnnejmodfinclbdgaci): Performs syntax highlighting on files visited in the browser based on their extension
+- [ReCaptcha Solver](https://chromewebstore.google.com/detail/rektcaptcha-recaptcha-sol/bbdhfoclddncoaomddgkaaphcnddbpdh): Assists in bypassing reCAPTCHA challenges for testing purposes.
+- [PostMessage Tracker](https://github.com/fransr/postMessage-tracker): Monitors and tracks PostMessage communications between websites for security testing.
+- [JWT Debugger](https://github.com/Hacking-Notes/jwt): Enables testing and analysis of JSON Web Tokens in your browser session.
+- [Time Travel](https://chromewebstore.google.com/detail/time-travel/jfdbpgcmmenmelcghpbbkldkcfiejcjg): Allows you to change your browser's default date for testing edge cases and time-sensitive features.
+- [CSPT Detector](soon): Identifies and helps you test for Cross-Site Request Forgery vulnerabilities.
 
 ### Learning & Productivity:
-   <li><a href="https://chromewebstore.google.com/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff">Global Speed</a>: Accelerates learning in cybersecurity courses by adjusting playback speed.</li>
+- [Global Speed](https://chromewebstore.google.com/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff): Accelerates learning by adjusting video and audio playback speed across various platforms.
+- [Speechify](https://chromewebstore.google.com/detail/speechify-text-to-speech/ljflmlehinmoeknoonhibbjpldiijjmm): Text-to-speech tool that converts written content to audio for efficient multitasking.
+
+Is there anything specific you'd like me to improve or expand upon in this list?
 
 ## Feedback and Support
 
