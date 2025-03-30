@@ -27,7 +27,7 @@ I'll help you improve this list of extensions by organizing it better, adding mi
 - [EndPointer](https://github.com/AtlasWiki/EndPointer): Discovers potentially vulnerable endpoints on webpages and in linked JavaScript files.
 - [DOMLogger++](https://chromewebstore.google.com/detail/domlogger++/lkpfjhmpbmpflldmdpdoabimdbaclolp): Tracks DOM modifications and logs interactions for deeper web analysis.
 - [Simple Proxy Switcher](https://chromewebstore.google.com/detail/simple-proxy-switcher/pcboajngloecgmaailkmphmpbacmbcfb): Easy-to-use proxy switcher for web development, testing, and bypassing restrictions.
-- [Syntaxic!](https://chromewebstore.google.com/detail/syntaxtic/cgjalgdhmbpaacnnejmodfinclbdgaci): Performs syntax highlighting on files visited in the browser based on their extension
+- [Json & Code Viewer](https://chromewebstore.google.com/detail/json-code-viewer/miahlkanimkomfiiecemmdmjgenckamn): Performs syntax highlighting on files visited in the browser based on their extension
 - [ReCaptcha Solver](https://chromewebstore.google.com/detail/rektcaptcha-recaptcha-sol/bbdhfoclddncoaomddgkaaphcnddbpdh): Assists in bypassing reCAPTCHA challenges for testing purposes.
 - [PostMessage Tracker](https://github.com/fransr/postMessage-tracker): Monitors and tracks PostMessage communications between websites for security testing.
 - [JWT Debugger](https://github.com/Hacking-Notes/jwt): Enables testing and analysis of JSON Web Tokens in your browser session.
