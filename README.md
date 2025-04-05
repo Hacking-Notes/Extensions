@@ -39,11 +39,3 @@ I'll help you improve this list of extensions by organizing it better, adding mi
 - [Speechify](https://chromewebstore.google.com/detail/speechify-text-to-speech/ljflmlehinmoeknoonhibbjpldiijjmm): Text-to-speech tool that converts written content to audio for efficient multitasking.
 
 Is there anything specific you'd like me to improve or expand upon in this list?
-
-## Feedback and Support
-
-If you have any questions, suggestions, or issues regarding the extensions or this repository, feel free to open an issue or reach out to me via Discord.
-
-  <a href="https://discord.com">
-  <img width="300" src="https://github.com/Hacking-Notes/Hacking-Notes/assets/118412415/5f34c47e-8f9e-40ef-885d-91ee9a6c5989" alt="gif">
-  </a>
