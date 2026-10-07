@@ -1,3 +1,11 @@
+<div align="center">
+
+<kbd>&nbsp;CHROME&nbsp;</kbd> &nbsp; <kbd>&nbsp;TOOLKIT&nbsp;</kbd> &nbsp; <kbd>&nbsp;RECON&nbsp;</kbd> &nbsp; 
+
+[![Website](https://img.shields.io/badge/WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+
+</div>
+
 
 ![create-a-chrome-extension-icon-with-a-hacking-evil-icon-inside-895548428](https://github.com/Hacking-Notes/Extensions/assets/118412415/d55b2201-47e2-4345-95c5-aecf997976f1)
 
@@ -13,7 +21,6 @@ In this collection, you'll find a diverse range of Chrome extensions covering va
 - **Web Development & Analysis**
 - **Learning & Productivity**
 
-I'll help you improve this list of extensions by organizing it better, adding missing links, and enhancing the descriptions. Here's the improved version:
 
 ## Included Extensions
 
@@ -38,4 +45,18 @@ I'll help you improve this list of extensions by organizing it better, adding mi
 - [Global Speed](https://chromewebstore.google.com/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff): Accelerates learning by adjusting video and audio playback speed across various platforms.
 - [Speechify](https://chromewebstore.google.com/detail/speechify-text-to-speech/ljflmlehinmoeknoonhibbjpldiijjmm): Text-to-speech tool that converts written content to audio for efficient multitasking.
 
-Is there anything specific you'd like me to improve or expand upon in this list?
+
+<br>
+
+<div align="center">
+
+### ───────────────  HACKING NOTES ECOSYSTEM  ───────────────
+
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+[![Roadmap](https://img.shields.io/badge/🗺_ROADMAP-Hacker--Roadmap-f5f5f5?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/Hacker-Roadmap)
+[![RedTeam](https://img.shields.io/badge/🔴_RED_TEAM-notes-ff3333?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/RedTeam)
+[![BlueTeam](https://img.shields.io/badge/🔵_BLUE_TEAM-notes-3388ff?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/BlueTeam)
+
+<sub><code>// part of the Hacking Notes toolkit — hacking-notes.com</code></sub>
+
+</div>
